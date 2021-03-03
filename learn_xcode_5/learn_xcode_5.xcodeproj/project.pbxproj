@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		827C8C5625EE3B1E004B69C5 /* learn_xcode_5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827C8C5525EE3B1E004B69C5 /* learn_xcode_5App.swift */; };
-		827C8C5825EE3B1E004B69C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827C8C5725EE3B1E004B69C5 /* ContentView.swift */; };
 		827C8C5A25EE3B1E004B69C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 827C8C5925EE3B1E004B69C5 /* Assets.xcassets */; };
 		827C8C5D25EE3B1E004B69C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 827C8C5C25EE3B1E004B69C5 /* Preview Assets.xcassets */; };
 		827C8C6825EE3B1E004B69C5 /* learn_xcode_5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 827C8C6725EE3B1E004B69C5 /* learn_xcode_5Tests.swift */; };
@@ -42,7 +41,6 @@
 /* Begin PBXFileReference section */
 		827C8C5225EE3B1E004B69C5 /* learn_xcode_5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learn_xcode_5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		827C8C5525EE3B1E004B69C5 /* learn_xcode_5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learn_xcode_5App.swift; sourceTree = "<group>"; };
-		827C8C5725EE3B1E004B69C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		827C8C5925EE3B1E004B69C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		827C8C5C25EE3B1E004B69C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		827C8C5E25EE3B1E004B69C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -109,7 +107,6 @@
 				827C8C8425EE3B3F004B69C5 /* Model */,
 				827C8C8325EE3B36004B69C5 /* View */,
 				827C8C5525EE3B1E004B69C5 /* learn_xcode_5App.swift */,
-				827C8C5725EE3B1E004B69C5 /* ContentView.swift */,
 				827C8C5925EE3B1E004B69C5 /* Assets.xcassets */,
 				827C8C5E25EE3B1E004B69C5 /* Info.plist */,
 				827C8C5B25EE3B1E004B69C5 /* Preview Content */,
@@ -296,7 +293,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				827C8C5825EE3B1E004B69C5 /* ContentView.swift in Sources */,
 				827C8C5625EE3B1E004B69C5 /* learn_xcode_5App.swift in Sources */,
 				827C8CA025EE49CC004B69C5 /* MyHomeView.swift in Sources */,
 				827C8C8725EE3BF1004B69C5 /* Book.swift in Sources */,
